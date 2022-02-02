@@ -23,6 +23,7 @@ body {
     justify-content: center;
     flex-direction: column;
     animation: animation-pulse 8s infinite;
+    width: 78px;
 }
 
 .icon-wrapper .number-atomic {
